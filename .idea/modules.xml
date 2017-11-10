@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///mnt/dane/src/android-studio/NoPhone/NoPhone.iml" filepath="/mnt/dane/src/android-studio/NoPhone/NoPhone.iml" />
+      <module fileurl="file:///mnt/dane/src/android-studio/NoPhone/app/app.iml" filepath="/mnt/dane/src/android-studio/NoPhone/app/app.iml" />
+    </modules>
+  </component>
+</project>
